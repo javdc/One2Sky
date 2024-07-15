@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="Theme.One2Sky" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>

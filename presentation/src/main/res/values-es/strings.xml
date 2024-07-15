@@ -1,0 +1,60 @@
+<resources>
+
+    <string name="action_retry">Reintentar</string>
+    <string name="action_delete">Borrar</string>
+    <string name="action_add_to_favorites">Añadir a favoritos</string>
+    <string name="action_remove_from_favorites">Eliminar de favoritos</string>
+    <string name="action_add">Añadir</string>
+
+    <string name="unknown">Desconocido</string>
+
+    <string name="error_generic">Error</string>
+    <string name="error_generic_with_http_code">Error %d</string>
+    <string name="error_generic_description">Ha ocurrido un error. Espera unos segundos e inténtalo de nuevo.</string>
+
+    <string name="error_connection_error">Error de conexión</string>
+    <string name="error_connection_error_description">Ha ocurrido un error al conectar con el servidor. Comprueba tu conexión o inténtalo más tarde.</string>
+
+    <string name="error_timeout_error">Tiempo de espera agotado</string>
+    <string name="error_timeout_error_description">El servidor ha tardado demasiado en responder. Comprueba tu conexión o inténtalo más tarde.</string>
+
+    <string name="error_empty_response_error">Respuesta vacía</string>
+    <string name="error_empty_response_error_description">La respuesta está vacía cuando no debería estarlo. Inténtalo más tarde.</string>
+
+    <string name="error_data_parse_error">Error al parsear los datos</string>
+    <string name="error_data_parse_error_description">El servidor ha devuelto unos datos no esperados. Inténtalo más tarde.</string>
+
+    <string name="date_time_format_default">dd/MM/yyyy HH:mm</string>
+
+    <string name="weather_screen_title">El tiempo</string>
+    <string name="weather_screen_title_format">El tiempo en %s</string>
+
+    <string name="weather_temp_celsius_format">%s °C</string>
+    <string name="weather_wind_kmh_format">%s km/h</string>
+    <string name="weather_humidity_percent_format">%s%%</string>
+
+    <string name="weather_feels_like">Sensación</string>
+    <string name="weather_wind">Viento</string>
+    <string name="weather_humidity">Humedad</string>
+    <string name="weather_max_temp_celsius_format">Máxima: %s °C</string>
+    <string name="weather_min_temp_celsius_format">Mínima: %s °C</string>
+
+    <string name="weather_last_update_format">Actualizado: %s</string>
+
+    <string name="date_yesterday">Ayer</string>
+    <string name="date_today">Hoy</string>
+    <string name="date_tomorrow">Mañana</string>
+
+    <string name="locations_screen_title">Ubicaciones</string>
+
+    <string name="locations_empty_title">No hay ninguna ubicación guardada</string>
+    <string name="locations_empty_body">¡Añade alguna con el botón de abajo!</string>
+    <string name="locations_action_add_location">Añadir ubicación</string>
+    <string name="locations_add_success">Ubicación añadida correctamente</string>
+    <string name="locations_add_error">No se ha podido encontrar la ubicación</string>
+
+    <string name="add_location_dialog_title">Añadir ubicación</string>
+    <string name="add_location_dialog_body">Introduce el nombre de la localidad</string>
+    <string name="add_location_dialog_input_hint">Localidad</string>
+
+</resources>
